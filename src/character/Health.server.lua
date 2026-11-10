@@ -1,0 +1,3 @@
+-- Intentionally empty. A script named "Health" in StarterCharacterScripts
+-- replaces Roblox's default health regeneration, so health only comes back
+-- from pickups.
